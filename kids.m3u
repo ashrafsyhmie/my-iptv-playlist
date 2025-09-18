@@ -1,0 +1,83 @@
+#########################################################################KIDS###################################################################################################
+
+
+https://iili.io/H7B4QYF.png
+
+
+
+
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://aqfadtv.xyz/logos/Astro Tutor TV (2024).png" group-logo="https://iili.io/H7B4QYF.png" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/education.png" ch-number="603",Astro Tutor TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5071
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+
+#EXTINF:-1 group-logo="httpsFFxG/image.png"
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41Ee7PmQKYWYnvQPPbR9jmvKRzMcxHhOZMZlcRp7_hr58=kqEO/dash-wv/jitp-linearwm/2606/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png" ch-number="618",Moonbug
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CBeebies" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CBeebies.png" ch-number="620",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5093/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+
+#EXTINF:-1 tvg-id="NickJr" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr2023.png" ch-number="617",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ch-number="615",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/509
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="KIDS" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_NICKZ.png",616 NICKELEDEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
+#https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS",ZooMoo Kids 
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+  
+#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
+#https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+#EXTINF:-1 group-title="KIDS" tvg-id="472.unifi" group-logo="https://i.ibb.co/rp8R3fC/odlogov7.png" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+  
